@@ -1,8 +1,0 @@
-Basic of C++
-    - Input
-    - Output
-    - If Else
-    - Ternary Operator
-    - Switch Case
-    - Built in Function(Min, Max, Swap)
-    - String

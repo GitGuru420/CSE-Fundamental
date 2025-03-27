@@ -1,3 +1,0 @@
-Hi, I'm "Raisul Islam".
-I am a Computer Science & Engineering Student.
-It's my CSE Fundamental Code Repository.
